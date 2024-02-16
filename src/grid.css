@@ -1,0 +1,20 @@
+.top-grid1, .top-grid2, .top-grid3,.top-grid4, .top-grid5, .top-grid6, .top-grid7{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    margin: 10px;
+}
+
+.top-grids, .bottom-grids{
+    display: flex;
+}
+
+.bgclr{
+    background-color: green;
+}
+
+.grid-container{
+    display: flex;
+    flex-direction: column;
+}
+
